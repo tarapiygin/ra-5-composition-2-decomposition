@@ -1,0 +1,7 @@
+.CurrencyRates_item {
+  display: inline-block;
+  margin-right: 5px;
+}
+.CurrencyRates_item span {
+  margin-right: 3px;
+}

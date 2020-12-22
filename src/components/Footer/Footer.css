@@ -1,0 +1,9 @@
+.Footer{
+  max-width: 900px;
+  margin: auto;
+  display: flex;
+}
+.Footer-Column{
+  display: flex;
+  flex-direction: column;
+}

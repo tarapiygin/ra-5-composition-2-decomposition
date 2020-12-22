@@ -1,0 +1,11 @@
+.WeatherWidget-Content{
+  display: flex;
+}
+.WeatherWidget-Column:nth-child(1) {
+  display: flex;
+}
+
+.WeatherWidget-Column:nth-child(2) {
+  display: flex;
+  flex-direction: column;
+}

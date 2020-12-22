@@ -1,0 +1,11 @@
+.Header{
+  display: flex;
+  justify-content: space-between;
+  max-width: 900px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+.Header .AdWidget img {
+  max-width: 100px;
+  border-radius: 50%;
+}
